@@ -1,6 +1,10 @@
-# Uptillo API Documentation
+<div align="center">
+  <img src="assets/images/logo.png" alt="Uptillo Logo" width="200"/>
 
-Complete REST API documentation for the Uptillo invoice reminder automation platform.
+  # Uptillo™ API Documentation
+
+  Complete REST API documentation for the Uptillo™ invoice reminder automation platform.
+</div>
 
 ## Overview
 
@@ -215,3 +219,5 @@ This API documentation is provided under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ by the Uptillo team**
+
+© 2024 Uptillo. Uptillo™ and the Uptillo logo are trademarks of Uptillo.

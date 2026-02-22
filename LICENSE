@@ -22,6 +22,22 @@ THE DOCUMENTATION.
 
 ---
 
+## Excluded from License
+
+The following assets are NOT covered by the MIT License and are proprietary:
+
+- **Uptillo™ Logo** (assets/images/logo.png and all variations) - © 2024 Uptillo. All rights reserved.
+- **Uptillo™ Brand Assets** (all files in assets/images/) - © 2024 Uptillo. All rights reserved.
+- **Uptillo™** name and branding - Common law trademark
+
+Uptillo™ and the Uptillo logo are trademarks of Uptillo. These assets may not
+be used, reproduced, modified, or distributed without explicit written permission.
+
+The use of the Uptillo name and logo in connection with other products or
+services is prohibited without prior written consent.
+
+---
+
 NOTE: This license applies to the API documentation only. The Uptillo API and
 platform itself are proprietary software. Use of the API is subject to
 Uptillo's Terms of Service: https://uptillo.com/terms
